@@ -5,5 +5,5 @@
 
 ![meetu](https://user-images.githubusercontent.com/69576326/142034381-0e2baf9e-a458-4852-b04c-b3c48eccb7a5.gif)
 
-🔻풀영상
+풀영상▶
 https://youtu.be/1sNkhS5zBTk
