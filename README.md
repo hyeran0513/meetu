@@ -1,12 +1,5 @@
 # meetu (교수-학생 간 상담 매칭 서비스)
-project with 라경, 유리, 혜란<br/>
-이름|역할
----|---|
-김혜란|UI, FE|
-윤라경|BE|
-이유리|BE|
-</br>
-
+project with 라경, 유리, 혜란 </br>
 
 ![meetu](https://user-images.githubusercontent.com/69576326/142034381-0e2baf9e-a458-4852-b04c-b3c48eccb7a5.gif)
 
