@@ -1,2 +1,2 @@
-# meetu
-교수-학생 미팅 예약 시스템
+- DB : Oracle / API: JDBC / 개발언어 : JSP, Java, JavaScript / 프론트엔드 : HTML5
+- 서버 : Apache Tomcat
